@@ -15,3 +15,4 @@ def divide(x,y):
 def squere(x):
     return x*x
 
+#changes
