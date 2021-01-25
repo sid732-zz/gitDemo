@@ -13,3 +13,7 @@ def multiply(x,y):
 # Perform division
 def divide(x,y):
     pass
+
+
+def squere(x):
+    return x*x
