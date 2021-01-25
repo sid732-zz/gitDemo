@@ -11,3 +11,7 @@ def multiply(x,y):
 # Perform division
 def divide(x,y):
     return x/y
+
+def squere(x):
+    return x*x
+
